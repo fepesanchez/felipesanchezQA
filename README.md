@@ -3,7 +3,9 @@
 
 - 🔭 I’m currently working on [Lapzo](https://www.linkedin.com/company/lapzomx/mycompany/verification/)
 
-- 📄 Know about my experiences [QA funcional con 1 año de experiencia, proactivo, respetuoso, dedicado, autocritico y orientado a resultados. Con capacidad de enfrentar retos y establecer metas para crecer tanto profesional como personalmente. Además, soy capaz de trabajar bajo presión mientras equilibro mis prioridades. Habilidades Técnicas: Conocimiento en automation con manejo de selenium WebDriver en java, karate(API test-automation), cucumber BDD, control de versionamiento de código GIT. Conocimiento en diseño y ejecución de casos de pruebas funcionales/accesibilidad/exploratorias/smoke/regresivas/ API (postman) en un entorno ágil.](QA funcional con 1 año de experiencia, proactivo, respetuoso, dedicado, autocritico y orientado a resultados. Con capacidad de enfrentar retos y establecer metas para crecer tanto profesional como personalmente. Además, soy capaz de trabajar bajo presión mientras equilibro mis prioridades. Habilidades Técnicas: Conocimiento en automation con manejo de selenium WebDriver en java, karate(API test-automation), cucumber BDD, control de versionamiento de código GIT. Conocimiento en diseño y ejecución de casos de pruebas funcionales/accesibilidad/exploratorias/smoke/regresivas/ API (postman) en un entorno ágil.)
+- 📄 Know about my experiences (QA funcional con 1 año de experiencia, proactivo, respetuoso, dedicado, autocritico y orientado a resultados. Con capacidad de enfrentar retos y establecer metas para crecer tanto profesional como personalmente. Además, soy capaz de trabajar bajo presión mientras equilibro mis prioridades.
+-  Habilidades Técnicas: Conocimiento en automation con manejo de selenium WebDriver en java, karate(API test-automation), cucumber BDD, control de versionamiento de código GIT. Conocimiento en diseño y ejecución de casos de pruebas funcionales/accesibilidad/exploratorias/smoke/regresivas/ API (postman) en un entorno ágil.)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
