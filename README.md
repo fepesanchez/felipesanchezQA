@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Juan Felipe Sanchez</h1>
+<h1 align="center">Hi 👋, I'm Juan Felipe Sanchez </h1>
 <h3 align="center">A passionate QA Automation from Colombia</h3>
 
 - 🔭 I’m currently working on [Lapzo](https://www.linkedin.com/company/lapzomx/mycompany/verification/)
